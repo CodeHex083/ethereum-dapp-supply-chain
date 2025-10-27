@@ -7,7 +7,7 @@ This DAPP is for a decentralized approach for certifcation schemes, issuance and
 Any party can become a Certifier and assign a suitable Authority that can delegate authority of certification
 
 ### Diagrams 
-https://github.com/stevenhankin/ethereum-dapp-supply-chain/wiki
+https://github.com/CodeHex083/ethereum-dapp-supply-chain/wiki
 
 They are also checked in under Documentation directory
 
