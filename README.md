@@ -47,7 +47,7 @@ A Certifier would probably have a single Authority per Certificate.  Many certif
 ## Installation and Local Test
 1) Download App
     ```
-    git clone https://github.com/stevenhankin/ethereum-dapp-supply-chain.git
+    git clone https://github.com/CodeHex083/ethereum-dapp-supply-chain.git
     cd ethereum-dapp-supply-chain
     ```
 2) Run ganache cli
